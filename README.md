@@ -1,7 +1,10 @@
 ### Setup instructions
-- In terminal window:
+Unzip `data/uber-trip-data/uber-raw-data-janjune-15.csv.zip`
+
+In a terminal:
 - `pip install -r requirements.txt`
 - `juptyerlab` Start notebook 
+
 
 Inside notebook:
 - Modify top-level directory to reflect location of this repo
